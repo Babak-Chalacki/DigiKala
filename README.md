@@ -1,4 +1,4 @@
 # PROJECT.DIGIKALA
-Preview on github.io: [DEMO](https://babak-chalaki.github.io/PROJECT.DIGIKALA//)
+Preview on github.io: [DEMO](https://babak-chalacki.github.io/DigiKala/)
 ---
-![screen](https://github.com/BABAK-CHALAKI/PROJECT.17.DJ.KALA/blob/50c5fc9d940147cd5a9922a43a43f374c80cedf4/screen%20(2).png)
+![screen](https://github.com/Babak-Chalacki/DigiKala/blob/759ac7e861c9717887fd53fa98f739d971cb3bb8/screen.png)
