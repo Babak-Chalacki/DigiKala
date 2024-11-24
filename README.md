@@ -1,6 +1,6 @@
 # PROJECT.DIGIKALA
 
--the first project that I justed BootStrap
+-the first project that I used BootStrap
 
 Preview on github.io: [DEMO](https://babak-chalacki.github.io/DigiKala/)
 ---
